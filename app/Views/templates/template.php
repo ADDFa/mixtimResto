@@ -16,6 +16,13 @@
 </head>
 
 <body>
+    <!-- // TODO: Header dummy -->
+    <header>
+        <a href="/">Home</a>
+        <a href="/menu">Menu</a>
+        <a href="/about">About</a>
+    </header>
+
     <?= $this->renderSection('content') ?>
 
     <!-- // TODO: My script  -->
